@@ -1,5 +1,5 @@
-#### PHP Contact Form Repo
-This is the Docker environment set up for PHP contact form
+#### PHP Movie Review
+This is the Docker environment set up for Movie Review
 
 
 #### Prerequisites
